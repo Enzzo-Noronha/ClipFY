@@ -1,19 +1,31 @@
-# React + Vite
+🎬 ClipFy
+ClipFy é uma startup focada em transformar a forma como criadores de conteúdo e empresas produzem e publicam vídeos nas redes sociais.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O que fazemos
+Vivemos em um mundo onde a atenção vale ouro — e segundos importam. A ClipFy nasceu com uma missão simples: cortar, otimizar e publicar vídeos de forma rápida e automatizada, sem abrir mão da qualidade.
 
-Currently, two official plugins are available:
+Nossa plataforma combina um editor de corte rápido com um sistema de automação inteligente, permitindo que você transforme vídeos longos em clipes prontos para o TikTok e Instagram em questão de minutos — e ainda agende e publique tudo automaticamente.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✂️ Corte Rápido
+Chega de perder horas editando. Com o ClipFy você:
 
-## React Compiler
+Importa seu vídeo e define os pontos de corte em segundos
+Aplica formatos otimizados para cada plataforma (9:16 para Reels e TikTok)
+Adiciona legendas automáticas para aumentar o engajamento
+Exporta clipes prontos para publicação
+🤖 Automações
+A verdadeira força do ClipFy está nas automações. Conecte suas contas e deixe a plataforma trabalhar por você:
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# ClipFY" 
+Publicação automática no TikTok e Instagram
+Agendamento inteligente nos melhores horários para o seu público
+Geração automática de legendas e hashtags com IA
+Relatórios de desempenho para acompanhar o crescimento dos seus clipes
+🚀 Para quem é
+Criadores de conteúdo que querem postar mais sem trabalhar mais
+Empresas e agências que gerenciam múltiplos perfis
+Qualquer pessoa que quer crescer nas redes sociais com menos esforço
+🛠️ Tecnologias
+Frontend: React + Vite
+Estilização: CSS Modules
+Automações: Integração com APIs do TikTok e Instagram
+ClipFy — Corte rápido, crescimento real.
